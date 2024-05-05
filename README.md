@@ -1,5 +1,5 @@
 # checkcif_api
-Webscraping Api for using IUCr checkcif tool.
+Webscraping Api for using IUCr checkcif tool (https://checkcif.iucr.org/).
 
 You will need the 'requests' package to process HTTP requests. Install in your environment:
 'conda install requests'
