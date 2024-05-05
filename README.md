@@ -1,5 +1,5 @@
 # checkcif_api
-Python Api for uploading files to IUCr checkcif. 
+Webscraping Api for using IUCr checkcif tool.
 
 You will need the 'requests' package to process HTTP requests. Install in your environment:
 'conda install requests'
