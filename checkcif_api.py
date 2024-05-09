@@ -17,7 +17,7 @@ def get_pdf(in_cif_file:os.PathLike, out_pdf_file:os.PathLike) -> None:
         "runtype": "symmonly",
         "referer": "checkcif_server",
         "outputtype": "PDF",  # Change as needed (HTML, PDF, etc.)
-        "validtype": "checkcif_with_hkl",  # Adjust as needed
+        "validtype": "checkcif_only",  # Adjust as needed
         "valout": "vrfa"}  # Adjust based on desired alert level
 
     # Open the file and send the POST request

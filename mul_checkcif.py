@@ -15,5 +15,5 @@ def dir_checkcif(cif_directory:os.PathLike) -> None:
 
 
 if __name__ == '__main__':
-    cif_directory = r'C:\Users\piotr\Documents\working_dirs_lapek\checkcif_api\example_files'
+    cif_directory = r'C:\Users\piotr\Documents\VS_Code\checkcif_api\example_files'
     dir_checkcif(cif_directory=cif_directory)
